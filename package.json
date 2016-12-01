@@ -1,0 +1,25 @@
+{
+  "name": "angular-string",
+  "version": "0.1.0",
+  "description": "Angular wrapper for string.js",
+  "main": "angular-string.js","repository": {
+    "type": "git",
+    "url": "https://github.com/YaaL/angular-string"
+  },
+  "keywords": [
+    "angular",
+    "angularjs",
+    "string"
+  ],
+  "author": "Monika Szczygieł",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Yaal/angular-string/issues"
+  },
+  "devDependencies": {
+    "angular": "~1.2.2",
+  },
+  "dependencies": {
+    "string": "^3.3.3"
+  }
+}
